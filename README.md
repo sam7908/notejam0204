@@ -1,6 +1,6 @@
 # Notejam on Azure platform
  
-Notejam [Notejam](https://github.com/komarserjio/notejam) is a Python/Flask basen application.
+Notejam [Notejam](https://github.com/komarserjio/notejam) is a Python/Flask base application.
 The document describes a proposed approach to migrate monolithic application to containers on Azure with CI/CD processes.
  
 ## Architecture
